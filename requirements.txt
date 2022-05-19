@@ -1,0 +1,6 @@
+xlrd
+openpyxl
+pandas
+matplotlib
+numpy
+sklearn
